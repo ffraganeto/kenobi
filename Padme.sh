@@ -8,4 +8,4 @@ done
 =======
 #Comentario
 cowsay -f tux "Script Terminado"
->>>>>>> dev
+>>>>>>> dev 
